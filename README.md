@@ -1,20 +1,44 @@
-# 📖 Franchise Factory Wiki
-**Version:** 1.0.0 | **Stand:** 09.06.2026
+# 📖 franchise-factory-wiki
 
-Vollständige Dokumentation der Franchise Factory — dem dezentralen Business-Ökosystem auf A-TownChain.
+> Offizielle Dokumentation für [franchise-factory](https://github.com/A-TownChain-Okosystems/franchise-factory) — **L10/L8 Business** im A-TownChain Ökosystem
 
-## Inhaltsverzeichnis
-- [Konzept](docs/CONCEPT.md)
-- [Smart Contracts](docs/CONTRACTS.md)
-- [ATCLang Security](docs/SECURITY.md)
-- [API Referenz](docs/API.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Token Economy](docs/TOKEN_ECONOMY.md)
-
-## Repository
-- [Franchise Factory Code](https://github.com/A-TownChain-Okosystems/franchise-factory)
-- [A-TownChain OS](https://github.com/A-TownChain-Okosystems/a-townchain-os)
-
+[![Code](https://img.shields.io/badge/Code-franchise-factory-blue)](https://github.com/A-TownChain-Okosystems/franchise-factory)
+[![KAI-OS](https://img.shields.io/badge/KAI--OS-Wiki-purple)](https://github.com/ShivaCoreDev/kai-os-wiki)
+[![Ökosystem](https://img.shields.io/badge/Ökosystem-A--TownChain-green)](https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/feature/kai-os-integration/ECOSYSTEM.md)
 
 ---
-> 📦 **Code-Repo:** [A-TownChain-Okosystems/franchise-factory](https://github.com/A-TownChain-Okosystems/franchise-factory) | 🌐 **Ökosystem:** [Alle 23 Repos →](https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/feature/kai-os-integration/ECOSYSTEM.md) | 📖 [KAI-OS Wiki](https://github.com/ShivaCoreDev/kai-os-wiki)
+
+## 📦 Zugehöriges Code-Repo
+
+**→ [franchise-factory](https://github.com/A-TownChain-Okosystems/franchise-factory)** (`main` Branch)
+
+---
+
+## 🌐 A-TownChain Ökosystem
+
+Alle Code-Repos auf einen Blick:
+
+| Repo | Layer | Beschreibung |
+|------|-------|-------------|
+| [a-townchain-os](https://github.com/A-TownChain-Okosystems/a-townchain-os) | `L2–L4` | Haupt-Repo — KAI-OS Core |
+| [shivaos-kernel](https://github.com/A-TownChain-Okosystems/shivaos-kernel) | `L2` | Microkernel, IPC, ATCFS |
+| [atcnet](https://github.com/A-TownChain-Okosystems/atcnet) | `L5` | P2P Netzwerk, Bootstrap |
+| [atc-gateway](https://github.com/A-TownChain-Okosystems/atc-gateway) | `L7` | API Gateway Port 4000 |
+| [atclang](https://github.com/A-TownChain-Okosystems/atclang) | `L2-L4` | Proprietäre Sprache |
+| [atc-contracts](https://github.com/A-TownChain-Okosystems/atc-contracts) | `L4/L11` | Smart Contracts + Bridge |
+| [shivamon](https://github.com/A-TownChain-Okosystems/shivamon) | `L12` | NFT Gaming |
+| [franchise-factory](https://github.com/A-TownChain-Okosystems/franchise-factory) | `L10/L8` | Business DAO |
+| [atc-ui](https://github.com/A-TownChain-Okosystems/atc-ui) | `L10` | Neon Dashboard |
+| [atc-standards](https://github.com/A-TownChain-Okosystems/atc-standards) | `L0` | Protokoll-Standards |
+
+---
+
+## 📚 Master-Dokumentation
+
+- **[KAI-OS Wiki (31 Kapitel)](https://github.com/ShivaCoreDev/kai-os-wiki)** — vollständige Software-Spezifikation
+- **[ECOSYSTEM.md](https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/feature/kai-os-integration/ECOSYSTEM.md)** — Ökosystem-Übersicht mit Abhängigkeits-Graph
+- **[DEPRECATED.md](https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/feature/kai-os-integration/docs/DEPRECATED.md)** — veraltete Komponenten
+
+---
+
+*Teil des [A-TownChain Ökosystems](https://github.com/A-TownChain-Okosystems) · v2.0.0 · Stand: 2026-06-09*
