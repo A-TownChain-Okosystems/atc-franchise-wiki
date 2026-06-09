@@ -14,3 +14,7 @@ Vollständige Dokumentation der Franchise Factory — dem dezentralen Business-�
 ## Repository
 - [Franchise Factory Code](https://github.com/A-TownChain-Okosystems/franchise-factory)
 - [A-TownChain OS](https://github.com/A-TownChain-Okosystems/a-townchain-os)
+
+
+---
+> 📦 **Code-Repo:** [A-TownChain-Okosystems/franchise-factory](https://github.com/A-TownChain-Okosystems/franchise-factory) | 🌐 **Ökosystem:** [Alle 23 Repos →](https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/feature/kai-os-integration/ECOSYSTEM.md) | 📖 [KAI-OS Wiki](https://github.com/ShivaCoreDev/kai-os-wiki)
